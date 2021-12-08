@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/icons/check-mark.png</file>
+        <file>img/icons/mail.png</file>
+        <file>img/icons/padlock.png</file>
+        <file>img/icons/user.png</file>
+        <file>img/icons/x-mark.png</file>
+        <file>img/covers/test cover.jpg</file>
+        <file>img/icons/DecorativeDivider265.svg</file>
+    </qresource>
+</RCC>
